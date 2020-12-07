@@ -1,0 +1,26 @@
+{
+  "name": "iconbox3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icon-box"
+  ],
+  "author": "trinendra",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.12.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinendra/iconboxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trinendra/iconboxx/issues"
+  },
+  "homepage": "https://github.com/trinendra/iconboxx#readme",
+  "description": ""
+}
